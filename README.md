@@ -18,7 +18,7 @@ Entity relation extraction plays a crucial role in natural language processing, 
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/dunja274/relation-extraction.git
+    git clone https://github.com/dunja274/entity-relation-extraction.git
     cd entity-relation-extraction
     ```
 
